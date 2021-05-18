@@ -1,0 +1,22 @@
+{
+    "name": "cat-first-git-repository",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {
+        "node-sass": "^5.0.0"
+    },
+    "scripts": {
+        "sass:ishla": "node-sass scss/style.scss css/style.css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sanchitooo/CAT-first-git-repository.git"
+    },
+    "author": "Sanjarbek",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sanchitooo/CAT-first-git-repository/issues"
+    },
+    "homepage": "https://github.com/Sanchitooo/CAT-first-git-repository#readme"
+}
